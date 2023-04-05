@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi folks..
 
-<!--
-**ianfleming464/ianfleming464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Ian Fleming](http://www.ianflemingdeveloper.com). (No, not that Ian Fleming)
+
+<br/>
+
+I'm a certified web developer with a background in intellectual property law and retail management. I love finding solutions to problems, and show incredible persistence and perseverance in doing so. I particularly enjoy working with React, Node / Express + API configuration, MongoDB, some GraphQL, a little SQL and Firebase. I work hard daily on extending this list. 
+
+<br/>
+
+When not working or coding, you'll find me making electronic music, playing guitar, running, reading, or trying desperately to figure out how to be the best father in the world.
+
+
